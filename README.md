@@ -9,8 +9,8 @@ I'm a product manager based in Bengaluru. I like taking a product apart to under
 **[B2B SaaS product teardowns](https://github.com/prashantkr0923-commits/Product-teardowns-B2B-SaaS)**
 Deep, evidence-based teardowns of B2B SaaS products, each following the same 67-part research brief. Every claim is labelled as fact, inference or hypothesis, and nothing is invented. First up: Swym, the leading wishlist app on Shopify.
 
-**Feature-adoption analysis: a 90-minute PM assignment** *(private; available on request)*
-Recommended which channel should drive adoption of a new feature, using merchant data, a no-touch baseline and a holdout plan. Shipped the merchant message with a screen mock, a timestamped decision log and an AI trace log. All analysis was done with Claude Code working under rules I set; every product decision was mine.
+**Feature-adoption analysis: a product building case study** *(private; available on request)*
+Recommended which channel should drive adoption of a new feature, using fictional merchant data, a no-touch baseline and a holdout plan. Shipped the merchant message with a screen mock, a timestamped decision log and an AI trace log. All analysis was done with Claude Code working under rules I set; every product decision was mine.
 
 <!-- Add your other projects here, for example:
 **[Easel](link)** — two-sided marketplace for independent Indian artists, with live Razorpay payments.
