@@ -6,6 +6,9 @@ I'm a product manager based in Bengaluru. I like taking a product apart to under
 
 ### Product work
 
+**[Powerflo: an AI email assistant for a sales CRM](https://github.com/prashantkr0923-commits/powerflo-ai-email-assistant)** · [live demo](https://prashantkr0923-commits.github.io/powerflo-ai-email-assistant/) · [case study](https://github.com/prashantkr0923-commits/powerflo-ai-email-assistant/blob/main/CASE_STUDY.md)
+A product case study and a clickable prototype of the first version of an AI email assistant for small sales teams. The AI rewrites one or two sentences inside each rep's own template, every AI sentence traces to a source, and success is measured as extra positive replies against a holdout group. The prototype has a working review queue with a live fact check, built with Claude Code; every product decision was mine.
+
 **[B2B SaaS product teardowns](https://github.com/prashantkr0923-commits/Product-teardowns-B2B-SaaS)**
 Deep, evidence-based teardowns of B2B SaaS products, each following the same 67-part research brief. Every claim is labelled as fact, inference or hypothesis, and nothing is invented. First up: Swym, the leading wishlist app on Shopify.
 
